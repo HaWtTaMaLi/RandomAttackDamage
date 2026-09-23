@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomAttackDamage", "RandomAttackDamage\RandomAttackDamage.csproj", "{5446F8FA-9BF3-4F84-BC00-51CEFBC519E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5446F8FA-9BF3-4F84-BC00-51CEFBC519E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5446F8FA-9BF3-4F84-BC00-51CEFBC519E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5446F8FA-9BF3-4F84-BC00-51CEFBC519E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5446F8FA-9BF3-4F84-BC00-51CEFBC519E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56A75DA6-AAE4-428F-9C9C-01D00C116132}
+	EndGlobalSection
+EndGlobal
